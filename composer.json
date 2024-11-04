@@ -1,5 +1,6 @@
 {
     "require": {
-        "barryvdh/laravel-dompdf": "^3.0"
+        "barryvdh/laravel-dompdf": "^3.0",
+        "tcg/voyager": "^1.8"
     }
 }
